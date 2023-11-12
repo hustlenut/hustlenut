@@ -21,7 +21,7 @@
   <img src="https://img.icons8.com/external-others-amoghdesign/48/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png">
   <img src="https://img.icons8.com/color/48/net-framework.png">
   <img src="https://img.icons8.com/color/48/docker.png">
-  <img src="https://img.icons8.com/ios-filled/50/unity.png">
+  <img src="https://img.icons8.com/nolan/64/unity.png">
 </div>
 
 ---

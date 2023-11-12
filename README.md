@@ -1,6 +1,6 @@
 ### Greetings fellow code dwellers! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/huy-xuan-nguyen-299717212/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/huy-xuan-nguyen-299717212/)
 
 ---
 

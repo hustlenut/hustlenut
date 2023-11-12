@@ -11,7 +11,7 @@
 
 ---
 
-🌱 My formal education and learning journey
+#### Tools and languages
 
 <div>
   <img src="/icons/solidstart.svg"
@@ -23,6 +23,11 @@
   <img src="https://img.icons8.com/color/48/docker.png">
   <img src="https://img.icons8.com/ios-filled/50/unity.png">
 </div>
+
+---
+
+🌱 My formal education and learning journey
+
 
 <!--
 **Hustlenut/Hustlenut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

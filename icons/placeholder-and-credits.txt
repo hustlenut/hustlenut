@@ -1,0 +1,7 @@
+Java logo - icons8.com
+C# - icons8.com
+Typescript - icons8.com
+ReactJS - icons8.com
+.NET Core - icons8.com
+Docker - icons8.com
+Unity - icons8.com

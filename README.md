@@ -13,9 +13,7 @@
 
 🌱 My formal education and learning journey
 
-![Java Icon](/icons/icons8-java.svg)
-
-![Java Icon](https://img.icons8.com/color/48/c-sharp-logo-2.png)
+![Java Icon](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png) ![Java Icon](https://img.icons8.com/color/48/c-sharp-logo-2.png)
 
 <!--
 **Hustlenut/Hustlenut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

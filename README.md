@@ -1,5 +1,7 @@
 ### Greetings fellow code dwellers! 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-<i class="fab fa-linkedin"></i>-blue)](https://www.linkedin.com/in/huy-xuan-nguyen-299717212/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Click%20Here-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/huy-xuan-nguyen-299717212/)
+
 ---
 
 

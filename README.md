@@ -12,6 +12,7 @@
 ---
 
 🌱 My formal education and learning journey
+
 <i class="fa-brands fa-java"></i>
 
 

@@ -13,7 +13,7 @@
 
 🌱 My formal education and learning journey
 
-![Java Icon](/icons/icons8-java.svg)
+![Java Icon](/icons/icons8-java.svg){: style="pointer-events: none;"}
 
 
 <!--

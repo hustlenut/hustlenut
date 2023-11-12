@@ -1,4 +1,7 @@
-### Hi there 👋
+### Greetings fellow code dwellers! 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-<i class="fab fa-linkedin"></i>-blue)](https://www.linkedin.com/in/huy-xuan-nguyen-299717212/)
+---
+
 
 <!--
 **Hustlenut/Hustlenut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

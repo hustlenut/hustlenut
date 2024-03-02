@@ -4,13 +4,6 @@
 
 ---
 
-🔭👯 I’m currently working on:
-
-- [Vinderen Gym og Kampsport API](https://github.com/Hustlenut/VinderenApi)
-- [Vinderen Gym og Kampsport Graduation Page](https://github.com/Hustlenut/vinderengymgrad)
-
----
-
 #### Tools and languages
 
 <div>
